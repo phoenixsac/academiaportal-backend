@@ -1,0 +1,6 @@
+# Ignore all files starting with "pattern_"
+".idea/*"
+
+# Ignore the entire "ignore_directory"
+".idea/*"
+
